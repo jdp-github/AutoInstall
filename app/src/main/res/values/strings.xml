@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoInstall</string>
+    <string name="smart_install">开启自动打卡功能</string>
+</resources>
